@@ -5,8 +5,7 @@ option java_package = "ex.grpc";
 
 package operation;
 
-//
-//TODO : Defines the service, the request and Reply
+//TODO: Defines the service, the request and Reply
 service Operation {
     rpc ProcessOperation (OperationRequest) returns (OperationReply) {}
 }
