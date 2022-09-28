@@ -1,8 +1,0 @@
-syntax = "proto3";
-
-option java_package = "ex.grpc";
-
-
-package operation;
-
-//TODO : Defines the service, the request and Reply

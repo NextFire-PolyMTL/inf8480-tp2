@@ -20,7 +20,7 @@
 #include <memory>
 #include <string>
 
-#include <grpcpp/grpcpp.h>
+#include <grpc++/grpc++.h>
 #include "operation.grpc.pb.h"
 
 #define TRACEPOINT_DEFINE
